@@ -1,39 +1,43 @@
-Name:
+Name: Liam
+
+1. Source code is what the programing writes and reads, 
+byte code is how the computer reads the source code.
+
+2. A class is a section of a code ina program
+
+3. The main method is where the program starts running.
+
+4. A string is a sequence of characters,
+it may be a string literal which is characters between quotations
+
+5. Capitalization is very important in java, as it is case sensitive.
+
+6. A bug is when a there is no syntax error but the program does not operate as expected
+
+7. System.out.prinln writes characters in the quotation marks.
+
+8. If you type // everything following on that line will be ignored by the computer,
+this is how you write comments. For example: [code code code] //this does [something]
 
 
-1.
+9. You can also use the characters /* and */ for multi line comments, and can be used anywhere on a line.
 
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
 
 10.
 
-11.
+11. the 8 primitive data types are; byte, short, int, long, float, double, char, and boolean.
 
-12.
+12. The largest primitive data type for holding integers is "long"
 
-13.
+13. the largest primitive data type for holding a float is "double"
 
-14.
-a.
-b.
+14. The standard for both integer and float is:
+a.  int or double
+b. double
 
-15.
+15. 1.9345E + 04 = 19345.0
 
-16.
+16. char holds characters.
 
-17.
+17. false, a boolean can only have 2 values.
 
