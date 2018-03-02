@@ -1,31 +1,33 @@
 Assignment 7
-Name:
+Name: Liam
 
 Chapter 13
 ==========
 
-1.
+1. Nothing Changes
 
-2.
+2. the program just doesnt work, BlueJ produces an error message
 
-3.
+3. 730 and 0.023 
 
-4.
+4. It takes the square root of 144 and gives you "12" as the answer
 
-5.
+5. Static means you can access it using the name of the class and the dot operator.
 
-6.
+6. It doesnt work, so it outputs NaN
 
-7.
+7. Not a Number
 
-8.
+8. The first line its dividing 1 by 9 in a separate operation before doing square roots and thus cant do decimal places, the second line has double and can.
+
 
 
 Chapter 16
 ==========
 
-1.
+1. the braces { and }
 
-2.
+2. == is checks if something is equal to another. 
+!= is to see if the values are not equal
 
-3.
+3. its an if statement inside another one. You have to go through one if statement to go to the next. like a filter.
