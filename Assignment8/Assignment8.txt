@@ -1,18 +1,18 @@
-Assignment 7
-Name:
+Assignment 8
+Name: Liam
 
-1.
+1. doubles are an approximation of a number, they are never exact as that would require infinite digits. Thus they can't be equal.
 
-2.
+2. true or false 
 
-3.
+3. there are 6 varieties
 
-4.
+4. it defines a variable as unchangable.
 
-5.
+5. 9/10
 
-6.
+6. &&
 
-7.
+7. ||
 
-8.
+8. !
