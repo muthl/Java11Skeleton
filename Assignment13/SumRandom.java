@@ -10,13 +10,11 @@ class SumRandom {
         int num, counter;
 
         for (counter = 1; counter <= 100; counter++) {
-            num = generateRandom.nextInt(25) + 1;
-            System.out.println(counter + " " + num);
+            num = generateRandom.nextInt(25) + 1;   //random number generator
+            System.out.println(counter + " + " + num  + " = " + (counter + num));
         }
 
-        System.out.print("Let's enter a number just for fun:");
-        num = scan.nextInt();
-        System.out.println("The number you entered was: " + num);
+
 
     }
 }
