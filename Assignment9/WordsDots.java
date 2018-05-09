@@ -19,7 +19,7 @@ class WordsDots {
         count = 1;
         
         System.out.print(inputString1);
-        while (count<=times) {              /* Incrimental Loop */
+        while (count<=times) {              //this loops checks the length of the line it will be printing and adds dots in between the two words until the line will be 30 characters long.
             System.out.print(".");
             count = count + 1;
         }
