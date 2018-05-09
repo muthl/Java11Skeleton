@@ -19,10 +19,10 @@ class Deli{
             fee = 2;
         }
         else {
-            fee = 0;
+            fee = 3;
         }
         if (expressDelivery == 1) {
-            delivery = 3;
+            delivery = 5;
         }
         else {
             delivery = 0;
