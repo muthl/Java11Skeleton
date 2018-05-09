@@ -23,7 +23,7 @@ this is how you write comments. For example: [code code code] //this does [somet
 9. You can also use the characters /* and */ for multi line comments, and can be used anywhere on a line.
 
 
-10.
+10. It prints out:  Hello World!
 
 11. the 8 primitive data types are; byte, short, int, long, float, double, char, and boolean.
 
@@ -39,5 +39,5 @@ b. double
 
 16. char holds characters.
 
-17. false, a boolean can only have 2 values.
+17. It can have the values true and false
 

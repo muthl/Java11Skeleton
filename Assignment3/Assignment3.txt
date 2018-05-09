@@ -25,15 +25,15 @@ Chapter 8:
 
 11. objects in strings are sourounded in quotations, chars are surrounded by apostrophes.
 
-12. true
+12. true and false
 
 
 Chapter 9:
 
 1.
-    1.1  long thisThing = 123;
+    1.1  long thisThing;
     
-    1.2  firstName = "Liam";		lastName = "Muth";
+    1.2  String firstName = "Liam";		lastName = "Muth";
 
 2. int, double, true, import
 
