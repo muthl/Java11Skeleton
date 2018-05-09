@@ -7,13 +7,13 @@ class SumRandom {
 
         Scanner scan = new Scanner(System.in);
         Random generateRandom = new Random();
-        int num, counter;
+        int num, counter, total = 0;
 
         for (counter = 1; counter <= 100; counter++) {
             num = generateRandom.nextInt(25) + 1;   //random number generator
-            System.out.println(counter + " + " + num  + " = " + (counter + num));
+            total += num;
         }
-
+        System.out.println("Total of all random numbers = " + total );
 
 
     }
