@@ -1,13 +1,7 @@
 import java.util.Scanner;
 public class Adventure {
 
-    public static String playerName;
-    public static Scanner name;
-    public static Scanner iteration;
-    public static String version;
-    public static String userName;
-    public static Scanner leftright;
-    public static String lr;
+
     public static void main (String[] args) {
         
      name = new Scanner (System.in);

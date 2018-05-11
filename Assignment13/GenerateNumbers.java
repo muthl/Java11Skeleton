@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-class SumRandom {
+class GenerateNumbers {
 
     public static void main(String[] args) {
 
